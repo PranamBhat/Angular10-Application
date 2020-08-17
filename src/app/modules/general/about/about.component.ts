@@ -30,65 +30,39 @@ export class AboutComponent {
     this.features = {
       frontend: [
         {
-          name: 'Angular CLI',
-          englishTutorial: 'https://www.ganatan.com/tutorials/getting-started-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/demarrer-avec-angular',
+          name: 'AngularJS Installation',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-set-up-and-installation-activity-6699583199657492481--kCx',
         },
         {
-          name: 'Routing',
-          englishTutorial: 'https://www.ganatan.com/tutorials/routing-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/routing-avec-angular',
+          name: 'AngularJS Tutorial - 1',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-tutorial-1-activity-6699908277146415104-5x-B',
         },
         {
-          name: 'Lazy loading',
-          englishTutorial: 'https://www.ganatan.com/tutorials/lazy-loading-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/lazy-loading-avec-angular',
+          name: 'AngularJS Tutorial - 2',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-tutorial-2-activity-6700391099367854080-AuNP',
         },
         {
-          name: 'Bootstrap',
-          englishTutorial: 'https://www.ganatan.com/tutorials/bootstrap-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/bootstrap-avec-angular',
+          name: 'Angular Version Check',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angular-version-activity-6700727531068375040-VJ41',
         },
         {
-          name: 'Server side Rendering',
-          englishTutorial: 'https://www.ganatan.com/tutorials/server-side-rendering-with-angular-universal',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/server-side-rendering-avec-angular-universal',
+          name: 'Angular Latest Version',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angular-latest-version-is-damn-fast-happy-activity-6700833256281112576-Gqfw',
         },
         {
-          name: 'HTTPClient',
-          englishTutorial: 'https://www.ganatan.com/tutorials/httpclient-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/httpclient-avec-angular',
+          name: 'Angular Unit Testing',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angular-unit-testing-using-jasmine-and-karma-activity-6698195027153297408-TqQS',
         },
         {
-          name: 'Transfer State',
-          englishTutorial: 'https://www.ganatan.com/tutorials/transfer-state-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/transfer-state-avec-angular',
+          name: 'Angular Ivy Compiler',
+          englishTutorial: 'https://github.com/PranamBhat/Angular-Ivy-Compiler',
         },
         {
-          name: 'Progressive Web App',
-          englishTutorial: 'https://www.ganatan.com/tutorials/progressive-web-app-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/progressive-web-app-avec-angular',
+          name: 'Django Framework Integration with Angular',
+          englishTutorial: 'https://www.linkedin.com/posts/pranam-bhat-11670689_angularjs-angular2-angular4-activity-6695934504206508032-TA8Z',
         },
-        {
-          name: 'Search Engine optimization',
-          englishTutorial: 'https://www.ganatan.com/tutorials/search-engine-optimization-with-angular',
-          frenchTutorial: 'https://www.ganatan.com/tutorials/search-engine-optimization-avec-angular',
-        },
-        {
-          name: 'Components',
-          englishTutorial: null,
-          frenchTutorial: 'https://www.ganatan.com/tutorials/components-avec-angular',
-        },
-        {
-          name: 'Services',
-          englishTutorial: null,
-          frenchTutorial: 'https://www.ganatan.com/tutorials/services-avec-angular',
-        },
-        {
-          name: 'Responsive Images List',
-          englishTutorial: null,
-          frenchTutorial: null,
-        },
+
+
       ],
       backend: [
         { name: 'Local JSON' },

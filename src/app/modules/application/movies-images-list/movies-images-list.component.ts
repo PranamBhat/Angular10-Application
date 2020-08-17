@@ -43,10 +43,10 @@ export class MoviesImagesListComponent extends PageListComponent implements OnIn
   }
 
   ngOnInit() {
-    this.titleService.setTitle('New Movies: angular.ganatan');
+    this.titleService.setTitle('New Movies');
     this.meta.addTag({
-      name: 'angular.ganatan',
-      content: 'danny ganatan'
+      name: 'pranam bhat',
+      content: 'pranam bhat'
     });
     this.meta.updateTag(
       {
